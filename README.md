@@ -8,5 +8,5 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [See Solution](https://www.frontendmentor.io/solutions/nft-card-component-qTaVMmo_ZQ)
+- Live Site URL: [Try it here](https://harshm-nft-component.netlify.app/)
